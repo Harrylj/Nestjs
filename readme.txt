@@ -1,0 +1,2 @@
+1.nestjs是一个基于nodejs服务端的应用程序开发框架
+2.nestjs的底层代码运用了express和Fastify在他们的基础上提供了一定程序的抽象，同时也将其API直接暴露给开发人员。
